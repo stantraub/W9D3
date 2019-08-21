@@ -1,0 +1,22 @@
+.unordered {
+  display: flex;
+  /* width: 150px; */
+  flex-wrap: wrap;
+  list-style: none;
+  width: 402px;
+}
+
+.unordered li {
+  background-color: aquamarine;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 85px;
+}
+
+.unordered li:hover {
+  background-color: yellow;
+}
+
+

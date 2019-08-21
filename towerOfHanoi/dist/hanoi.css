@@ -1,0 +1,61 @@
+
+
+.hanoi ul {
+  
+  
+  border-bottom: 10px solid black;
+  float: left;
+  padding: 0 0 10px 0;
+  list-style: none;
+  width: 150px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
+.hanoi ul:hover {
+  border-bottom-color: blue;
+}
+.unord0 li {
+  border: 1px solid grey;
+  background-color: gray;
+  padding-left: 27px;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 55px;
+}
+
+.unord1 li {
+  border: 1px solid white;
+  padding-left: 27px;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+}
+
+.unord2 li {
+  border: 1px solid white;
+  padding-left: 27px;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+}
+
+#li0 {
+  width: 33px;
+  border-radius: 55px;
+  margin-left: 40px;
+}
+
+#li1 {
+  width: 66px;
+  border-radius: 55px;
+  margin-left: 25px;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+/* PHASE 9: Forms */
+.input {
+
+  background-color: lightgray;
+  border: 1px solid lightgrey;
+  border-radius: 8px;
+}
+
+.input input {
+  background-color: white;
+  border-radius: 8px;
+}
+
+.input textarea {
+  background-color: white;
+  border-radius: 8px;
+}
